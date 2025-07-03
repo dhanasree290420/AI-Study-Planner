@@ -10,9 +10,6 @@ A simple AI-powered study planner that helps students plan their study schedule 
 - 📈 Visual progress percentage
 - ⚡ Clean and responsive user interface
 -------------------------------------------------------------------------------------------------------------------------------------------------
-📷 Screenshot
-[AI Study Planner Screenshot]Output.png,Output1.png
--------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 - **HTML**
 - **CSS**
