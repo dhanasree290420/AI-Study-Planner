@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Study Planner</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to AI Study Planner</h1>
+
+  <div class="form-container">
+    <form id="studyForm">
+      <label>Subjects (comma separated):</label><br>
+      <input type="text" id="subjects"><br><br>
+
+      <label>Hours per Day:</label><br>
+      <input type="number" id="hours"><br><br>
+
+      <label>Total Days:</label><br>
+      <input type="number" id="days"><br><br>
+
+      <button type="button" onclick="generatePlan()">Generate Plan</button>
+      <button type="button" onclick="clearPlan()">Clear My Plan</button>
+    </form>
+  </div>
+  <div id="quote" class="quote-box"></div>
+  <div id="output"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
