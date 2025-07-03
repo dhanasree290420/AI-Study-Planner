@@ -12,7 +12,7 @@ A simple AI-powered study planner that helps students plan their study schedule 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 📷 Screenshot
 
-[AI Study Planner Screenshot](Output.png,Output1.png) 
+[AI Study Planner Screenshot]Output.png,Output1.png
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 - **HTML**
